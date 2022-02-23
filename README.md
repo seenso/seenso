@@ -26,9 +26,9 @@ const seenso = {
 ```
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My numbers</h2>
 
-![Metrics](https://metrics.lecoq.io/seenso?template=classic&config.timezone=America%2FAnchorage)
+<!-- ![Metrics](https://metrics.lecoq.io/seenso?template=classic&config.timezone=America%2FAnchorage) -->
 
-<!-- ![Seen's github stats](https://github-readme-stats.vercel.app/api?username=seenso&show_icons=true&hide=[%22issues%22]) -->
+![Seen's github stats](https://github-readme-stats.vercel.app/api?username=seenso&show_icons=true&hide=[%22issues%22])
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seenso&hide=TeX&layout=compact)
 
