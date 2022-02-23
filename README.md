@@ -4,10 +4,11 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seenso.seenso)
 
 
-<div>⚡There are 10 types of people in the world. Those who get Binary and those who don't..⚡</div>
+<div>⚡𝚃𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝟷0 𝚝𝚢𝚙𝚎𝚜 𝚘𝚏 𝚙𝚎𝚘𝚙𝚕𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝚃𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚐𝚎𝚝 𝙱𝚒𝚗𝚊𝚛𝚢 𝚊𝚗𝚍 𝚝𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚍𝚘𝚗'𝚝..⚡</div>
+<br />
+<p>I'm a Software Engineer looking to join a great company in a remote full stack role.</p>
 
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A bit about me...</h2>
-<p>I'm a Software Engineer looking to join a great company in a remote full stack role.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit about me...</h2>
 
 ```javascript
 const seenso = {
@@ -25,6 +26,7 @@ const seenso = {
  currentHappenings: "I am working on the Data Structures course with AlgoExpert."
 }
 ```
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My numbers</h2>
 
 ![Seen's github stats](https://github-readme-stats.vercel.app/api?username=seenso&show_icons=true&hide=[%22issues%22])
 
