@@ -21,7 +21,7 @@ const seenso = {
                     degree: "Software Engineering"
                 }
              ],
- currentHappenings: "I am working on the Data Structures course with AlgoExpert."
+ currentHappenings: "Reviewing Data Structures and Algorithms."
 }
 ```
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My numbers</h2>
