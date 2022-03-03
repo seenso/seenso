@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hello, I'm Seen!</h1>
+<h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hello, I'm Seen! (as in "I've never *SEEN* you before.")</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-seenso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seenso/)](https://www.linkedin.com/in/seenso/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seenso.seenso)
@@ -26,6 +26,8 @@ const seenso = {
 ```
 
 <h2><img src="https://media3.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif?cid=790b7611hezndqwygecloy9xl4xxoygayg71ky4uagv2v7h1&rid=giphy.gif&ct=s" width="30"/>My projects</h2>
+  <h3><a href="https://github.com/seenso/Memories">Memories</a> - Pending</h3>
+  - A fullstack app to log all of your most important memories.
   <h3><a href="https://github.com/seenso/PawsClawsPetRescue">Paws & Claws Pet Rescue</a></h3> 
   - A mono repo pet rescue management app that offers roles for users so admin/applicants/fosters can all access and/or manage the same data.
 
