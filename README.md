@@ -26,8 +26,14 @@ const seenso = {
 ```
 
 <h2><img src="https://media3.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif?cid=790b7611hezndqwygecloy9xl4xxoygayg71ky4uagv2v7h1&rid=giphy.gif&ct=s" width="30"/>My projects</h2>
-  <h3><a href="https://github.com/seenso/PawsClawsPetRescue">Paws & Claws Pet Rescue</a></h3> - A pet rescue management app that offers roles for users so admin/applicants/fosters can all access and/or manage the same data.
-  
+  <h3><a href="https://github.com/seenso/PawsClawsPetRescue">Paws & Claws Pet Rescue</a></h3> 
+  - A mono repo pet rescue management app that offers roles for users so admin/applicants/fosters can all access and/or manage the same data.
+
+  <h3><a href="https://github.com/seenso/WhoseTurnIsIt-frontend">Whose Turn Is It?</a></h3>
+  - A dual repo communication tool to help households coordinate the care of their pets.
+
+  <h3><a href="https://github.com/seenso/CozyCatCafe">Cozy Cat Cafe</a></h3>
+  - A Cat Cafe business website where users can browse/search through available books and see details like the author, plot, number of pages, etc. Users can also see the cats available for adoption and come into the cat cafe to spend time with them.
 
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My numbers</h2>
