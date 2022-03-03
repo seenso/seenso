@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hello, I'm Seen!</h1>(as in "I've never *SEEN* you before.")
+<h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hello, I'm Seen!</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-seenso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seenso/)](https://www.linkedin.com/in/seenso/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seenso.seenso)
