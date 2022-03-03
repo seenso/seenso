@@ -26,8 +26,8 @@ const seenso = {
 ```
 
 <h2><img src="https://media3.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif?cid=790b7611hezndqwygecloy9xl4xxoygayg71ky4uagv2v7h1&rid=giphy.gif&ct=s" width="30"/>My projects</h2>
-  <h3>Project 1</h3>
-  <h4>Project 1</h4>
+  <h3>Paws & Claws Pet Rescue-<a href="https://github.com/seenso/PawsClawsPetRescue">Github</a></h3>
+  <p>A pet rescue management app that offers roles for users so admin/applicants/fosters can all access and/or manage the same data.</p>
 
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My numbers</h2>
