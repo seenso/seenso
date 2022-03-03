@@ -26,8 +26,8 @@ const seenso = {
 ```
 
 <h2><img src="https://media3.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif?cid=790b7611hezndqwygecloy9xl4xxoygayg71ky4uagv2v7h1&rid=giphy.gif&ct=s" width="30"/>My projects</h2>
-- project 1
-- project 2
+  <h3>Project 1</h3>
+  <h4>Project 1</h4>
 
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My numbers</h2>
