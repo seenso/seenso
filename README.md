@@ -21,7 +21,7 @@ const seenso = {
                     degree: "Software Engineering"
                 }
              ],
- currentHappenings: "Reviewing Data Structures and Algorithms."
+ currentHappenings: "Reviewing Data Structures and Algorithms, OOP, && Functional Programming"
 }
 ```
 
