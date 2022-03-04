@@ -1,6 +1,9 @@
 <h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hello, I'm Seen!</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-seenso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seenso/)](https://www.linkedin.com/in/seenso/)
+[![Linkedin Badge](https://img.shields.io/badge/-seenso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seenso/)](https://icseen.medium.com/)
+
+[![Medium Badge](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/seenso/)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seenso.seenso)
 
 
