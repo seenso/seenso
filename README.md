@@ -27,7 +27,7 @@ const seenso = {
 
 <h2><img src="https://media3.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif?cid=790b7611hezndqwygecloy9xl4xxoygayg71ky4uagv2v7h1&rid=giphy.gif&ct=s" width="30"/>My projects</h2>
   <h3><a href="https://github.com/seenso/Memories">Memories</a> - Pending</h3>
-  - A fullstack app to log all of your most important memories.
+  - A fullstack MERN app to log all of your most important memories.
   <h3><a href="https://github.com/seenso/PawsClawsPetRescue">Paws & Claws Pet Rescue</a></h3> 
   - A mono repo pet rescue management app that offers roles for users so admin/applicants/fosters can all access and/or manage the same data.
 
