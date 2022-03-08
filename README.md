@@ -7,7 +7,7 @@
 
 <div>⚡𝚃𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝟷0 𝚝𝚢𝚙𝚎𝚜 𝚘𝚏 𝚙𝚎𝚘𝚙𝚕𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝚃𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚐𝚎𝚝 𝙱𝚒𝚗𝚊𝚛𝚢 𝚊𝚗𝚍 𝚝𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚍𝚘𝚗'𝚝..⚡</div>
 
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit about me...</h2>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me</h2>
 
 ```javascript
 const seenso = {
