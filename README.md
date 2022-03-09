@@ -48,8 +48,11 @@ const seenso = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seenso&hide=TeX&layout=compact)
 
 <h2>Project Ideas List</h2>
-- <h3><a href="https://github.com/seenso/MiAmort">MiAmort</a></h3>
-- <h3><a href="https://github.com/seenso/HorseLease">HorseLease</a></h3>
+<h3><a href="https://github.com/seenso/MiAmort">MiAmort</a></h3>
+- MiAmort generates an amort schedule for you based off principal balance, interest rate and length of term.
+
+<h3><a href="https://github.com/seenso/HorseLease">HorseLease</a></h3>
+- HorseLease is an all-in-one provides everything you'll need to lease your horse. Lease contracts, advertising, payment management, and more.
 
 
 
