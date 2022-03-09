@@ -48,8 +48,8 @@ const seenso = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seenso&hide=TeX&layout=compact)
 
 <h2>Project Ideas List</h2>
-  - <a href="https://github.com/seenso/MiAmort">MiAmort</a>
-  - <a href="https://github.com/seenso/HorseLease">HorseLease</a>
+- <a href="https://github.com/seenso/MiAmort">MiAmort</a>
+- <a href="https://github.com/seenso/HorseLease">HorseLease</a>
 
 
 
