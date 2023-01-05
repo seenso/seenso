@@ -22,7 +22,7 @@ const seenso = {
                     degree: "Software Engineering"
                 }
              ],
- currentHappenings: "Actively looking to join a team of great people!"
+ currentPosition: "Programmer; open to opportunities."
 }
 ```
 
